@@ -21,7 +21,7 @@
         "isRtl": false
       }
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/photo-128x128.png",
     "noImageResize": "",
     "versionFirst": "3.12.1",
     "uniqCompNum": 1,
